@@ -55,7 +55,6 @@ function exportPPTfunction() {
 exportPDFbutton.addEventListener("click", exportPDFfunction);
 exportPPTbutton.addEventListener("click", exportPPTfunction);
 
-// Add function to get user input values
 // Second level of text body below buttons
 function getRangeValues() {
   // Add function to get user input values
